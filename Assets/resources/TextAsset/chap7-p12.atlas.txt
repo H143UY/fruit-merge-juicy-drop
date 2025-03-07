@@ -1,0 +1,13 @@
+chap7-p12.png
+size:812,368
+filter:Linear,Linear
+pma:true
+chap7Part12A
+bounds:439,2,364,188
+rotate:90
+chap7Part12B
+bounds:629,60,306,181
+offsets:0,0,306,184
+rotate:90
+chap7Part12C
+bounds:2,36,435,330

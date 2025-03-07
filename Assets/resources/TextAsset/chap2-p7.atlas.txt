@@ -1,0 +1,10 @@
+chap2-p7.png
+size:332,528
+filter:Linear,Linear
+pma:true
+chap2Part7
+bounds:2,2,301,236
+chap2Part7B
+bounds:2,240,320,285
+chap2Part7C
+bounds:305,207,24,31

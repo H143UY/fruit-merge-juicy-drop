@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1dc2417657c900c65cb19556092de1b0, type: 3}
+  m_Name: BallSOTheme8
+  m_EditorClassIdentifier:
+  ListBallDataConfig:
+  - Name: Ball 0
+    BallID: 0
+    BallNormalSprite: {fileID: 21300000, guid: 27029cae966b00d4ca8c25b24c0fb810, type: 2}
+    BallBlinkSprite: {fileID: 21300000, guid: 5dea304e5d3b65b449c1a0537a12edb0, type: 2}
+    BallLoseSprite: {fileID: 21300000, guid: 003a7af29aa2dc44b8f660ef247da2f7, type: 2}
+    BallSize: 72
+    BallMass: 1.75
+    BallScore: 0
+    BallSortingOrder: 10
+    BallColor: {r: 0.78039217, g: 0.21960786, b: 0.21960786, a: 1}
+  - Name: Ball 1
+    BallID: 1
+    BallNormalSprite: {fileID: 21300000, guid: 86e709fc453331d49a9278b53f6c55a2, type: 2}
+    BallBlinkSprite: {fileID: 21300000, guid: b0a64d20d1e7b834a94f2840d099aecc, type: 2}
+    BallLoseSprite: {fileID: 21300000, guid: d001b140d6fd59d4da244057c8fa3453, type: 2}
+    BallSize: 90
+    BallMass: 1.75
+    BallScore: 1
+    BallSortingOrder: 9
+    BallColor: {r: 0.39215687, g: 0.48235294, b: 0.78039217, a: 1}
+  - Name: Ball 2
+    BallID: 2
+    BallNormalSprite: {fileID: 21300000, guid: 0190de2cc5916e04ebe9bb8d5f0548e2, type: 2}
+    BallBlinkSprite: {fileID: 21300000, guid: db3677642437ed749be3c5bf9aed7668, type: 2}
+    BallLoseSprite: {fileID: 21300000, guid: bb986ee70618142438676a0506a580d0, type: 2}
+    BallSize: 110
+    BallMass: 1.5
+    BallScore: 3
+    BallSortingOrder: 8
+    BallColor: {r: 0.80784315, g: 0.87058824, b: 0.13725491, a: 1}
+  - Name: Ball 3
+    BallID: 3
+    BallNormalSprite: {fileID: 21300000, guid: 58b07f527999a6943a15e09f11b13cc8, type: 2}
+    BallBlinkSprite: {fileID: 21300000, guid: c44468d940ce94146a1cced80e2cfb26, type: 2}
+    BallLoseSprite: {fileID: 21300000, guid: c30e07c3eeeede24fa7c143dff0e21c6, type: 2}
+    BallSize: 135
+    BallMass: 1.5
+    BallScore: 6
+    BallSortingOrder: 7
+    BallColor: {r: 0.6039216, g: 0.34509805, b: 0.9490196, a: 1}
+  - Name: Ball 4
+    BallID: 4
+    BallNormalSprite: {fileID: 21300000, guid: f511749be9d1a1942b55e20662a3a7d5, type: 2}
+    BallBlinkSprite: {fileID: 21300000, guid: 9601e44e3d15702429539d5b2d794baf, type: 2}
+    BallLoseSprite: {fileID: 21300000, guid: 3f98fc4a62098fb4da48690c4ee2f964, type: 2}
+    BallSize: 170
+    BallMass: 1.5
+    BallScore: 10
+    BallSortingOrder: 6
+    BallColor: {r: 0.9882353, g: 0.6156863, b: 0.22745098, a: 1}
+  - Name: Ball 5
+    BallID: 5
+    BallNormalSprite: {fileID: 21300000, guid: ac6ca867c3323ce47833065e0cfbd995, type: 2}
+    BallBlinkSprite: {fileID: 21300000, guid: 309d24b9fe6df78448ab1ac0f1d0e08d, type: 2}
+    BallLoseSprite: {fileID: 21300000, guid: 7c35d53b8f750914b9383624e00f5cc0, type: 2}
+    BallSize: 210
+    BallMass: 1.25
+    BallScore: 15
+    BallSortingOrder: 5
+    BallColor: {r: 0.42352942, g: 0.77254903, b: 0.22352941, a: 1}
+  - Name: Ball 6
+    BallID: 6
+    BallNormalSprite: {fileID: 21300000, guid: 2557b61691cfb1144bef571baff5592c, type: 2}
+    BallBlinkSprite: {fileID: 21300000, guid: 828737806d0c9d34ab930c373944ab06, type: 2}
+    BallLoseSprite: {fileID: 21300000, guid: 8c414cb26c951d94c8aaca2a1b034e18, type: 2}
+    BallSize: 260
+    BallMass: 1.25
+    BallScore: 21
+    BallSortingOrder: 4
+    BallColor: {r: 1, g: 0.53333336, b: 0.63529414, a: 1}
+  - Name: Ball 7
+    BallID: 7
+    BallNormalSprite: {fileID: 21300000, guid: d28e0faf3411a97438e137199fa0cf24, type: 2}
+    BallBlinkSprite: {fileID: 21300000, guid: 5b19fc3f6306caa4da67b36eb22edf9d, type: 2}
+    BallLoseSprite: {fileID: 21300000, guid: 8c7cf2886f54cb2418e8b3beebd40f39, type: 2}
+    BallSize: 325
+    BallMass: 1.25
+    BallScore: 28
+    BallSortingOrder: 3
+    BallColor: {r: 0.49019608, g: 0.32941177, b: 0.19607843, a: 1}
+  - Name: Ball 8
+    BallID: 8
+    BallNormalSprite: {fileID: 21300000, guid: ce1ffe6c66370ee4d98d21d3bd27f20e, type: 2}
+    BallBlinkSprite: {fileID: 21300000, guid: 6bc6b221ad6bd7147927190021e85330, type: 2}
+    BallLoseSprite: {fileID: 21300000, guid: 315a66502fd56a8408f4b9cedf2ac61c, type: 2}
+    BallSize: 380
+    BallMass: 1
+    BallScore: 36
+    BallSortingOrder: 2
+    BallColor: {r: 0.88235295, g: 0.13333334, b: 0.34509805, a: 1}
+  - Name: Ball 9
+    BallID: 9
+    BallNormalSprite: {fileID: 21300000, guid: 4e6aecd935005d7439502f2b880787d0, type: 2}
+    BallBlinkSprite: {fileID: 21300000, guid: d71135c97aff7fc459bda25bdd623484, type: 2}
+    BallLoseSprite: {fileID: 21300000, guid: 569ba7126b3e0914c803c9f10fc381ed, type: 2}
+    BallSize: 460
+    BallMass: 1
+    BallScore: 45
+    BallSortingOrder: 1
+    BallColor: {r: 1, g: 0.7882353, b: 0.27450982, a: 1}
+  - Name: Ball 10
+    BallID: 10
+    BallNormalSprite: {fileID: 21300000, guid: 83ff73d74efbacf4e976e7eeb23c93f6, type: 2}
+    BallBlinkSprite: {fileID: 21300000, guid: d5fd35cf38e4a1d4eb7509ffc6d4599a, type: 2}
+    BallLoseSprite: {fileID: 21300000, guid: 4bcd6f86fab07c640934a4b9867b2fd1, type: 2}
+    BallSize: 540
+    BallMass: 1
+    BallScore: 55
+    BallSortingOrder: 0
+    BallColor: {r: 0.43137255, g: 0.7176471, b: 0.15294118, a: 1}

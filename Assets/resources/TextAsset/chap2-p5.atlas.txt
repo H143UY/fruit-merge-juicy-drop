@@ -1,0 +1,16 @@
+chap2-p5.png
+size:1008,808
+filter:Linear,Linear
+pma:true
+chap2Part5
+bounds:2,2,588,803
+offsets:0,0,588,968
+chap2Part5B
+bounds:592,391,413,414
+chap2Part5C
+bounds:592,154,86,51
+offsets:1,0,87,51
+chap2Part5D
+bounds:845,344,65,45
+chap2Part5E
+bounds:592,207,251,182

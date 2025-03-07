@@ -1,0 +1,16 @@
+chap3-p4.png
+size:940,404
+filter:Linear,Linear
+pma:true
+chap3Part4
+bounds:2,2,400,796
+rotate:90
+chap3Part4B
+bounds:800,117,144,98
+rotate:90
+chap3Part4C
+bounds:800,263,137,139
+chap3Part4D
+bounds:800,68,80,47
+chap3Part4E
+bounds:900,225,35,36

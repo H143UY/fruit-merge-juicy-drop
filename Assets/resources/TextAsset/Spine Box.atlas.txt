@@ -1,0 +1,19 @@
+Spine Box.png
+size:820,764
+filter:Linear,Linear
+pma:true
+1A
+bounds:2,8,349,261
+1B
+bounds:495,413,349,307
+rotate:90
+2A
+bounds:467,92,350,177
+2B
+bounds:495,289,308,122
+2C
+bounds:353,2,267,112
+rotate:90
+light
+bounds:2,271,491,491
+offsets:32,32,555,555

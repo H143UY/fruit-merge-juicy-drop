@@ -1,0 +1,15 @@
+chap6-p8.png
+size:296,248
+filter:Linear,Linear
+pma:true
+chap6Part8A
+bounds:204,20,90,88
+offsets:1,0,92,88
+rotate:90
+chap6Part8B
+bounds:2,120,200,124
+chap6Part8C
+bounds:204,112,56,132
+chap6Part8D
+bounds:2,2,116,200
+rotate:90

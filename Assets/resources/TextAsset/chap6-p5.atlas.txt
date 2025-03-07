@@ -1,0 +1,15 @@
+chap6-p5.png
+size:768,228
+filter:Linear,Linear
+pma:true
+chap6Part5A
+bounds:610,39,156,62
+offsets:0,1,156,64
+chap6Part5B
+bounds:360,2,248,224
+chap6Part5C
+bounds:2,34,192,356
+rotate:90
+chap6Part5D
+bounds:610,103,136,123
+offsets:0,4,136,128

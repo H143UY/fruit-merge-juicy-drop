@@ -1,0 +1,10 @@
+chap3-p6.png
+size:564,340
+filter:Linear,Linear
+pma:true
+chap3Part6A
+bounds:288,10,325,271
+rotate:90
+chap3Part6B
+bounds:2,2,333,284
+rotate:90

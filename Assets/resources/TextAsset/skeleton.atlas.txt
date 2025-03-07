@@ -1,0 +1,11 @@
+skeleton.png
+size:180,104
+filter:Linear,Linear
+pma:true
+bat
+bounds:2,2,93,97
+leg
+bounds:161,71,17,28
+wing
+bounds:97,2,97,62
+rotate:90

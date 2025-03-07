@@ -1,0 +1,15 @@
+chap7-p7.png
+size:276,512
+filter:Linear,Linear
+pma:true
+chap7Part7A
+bounds:2,300,270,209
+chap7Part7B
+bounds:228,251,47,35
+rotate:90
+chap7Part7C
+bounds:134,200,92,98
+chap7Part7D
+bounds:134,151,90,47
+chap7Part7E
+bounds:2,2,130,296

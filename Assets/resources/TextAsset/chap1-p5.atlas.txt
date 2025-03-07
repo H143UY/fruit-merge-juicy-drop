@@ -1,0 +1,11 @@
+chap1-p5.png
+size:372,244
+filter:Linear,Linear
+pma:true
+chap1Part5
+bounds:2,2,320,240
+chap1Part5Expression1
+bounds:324,195,46,47
+chap1Part5Expression2
+bounds:324,147,46,46
+offsets:0,0,46,47

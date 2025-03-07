@@ -1,0 +1,6 @@
+chap5-p9.png
+size:208,440
+filter:Linear,Linear
+pma:true
+chap5Part9
+bounds:2,2,204,436
